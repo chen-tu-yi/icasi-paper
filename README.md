@@ -9,3 +9,6 @@ This research is developed based on a **real-world industrial case study** from 
 *   **Conference:** IEEE 12th International Conference on Applied System Innovation (ICASI 2026)
 *   **Location:** Kyoto, Japan
 *   **Date:** April 14–17, 2026
+*   **Paper no.:** J260289
+*   **Paper title:** An Intelligent Decision Support System for Material Planning and Production Process Optimization in Smart Factories
+*   **Author(s):** CHEN,TU YI; CHEN, YI HUNG; LU, PIN-YEN; CHIU, SHENG-MIN
